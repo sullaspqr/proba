@@ -1,2 +1,2 @@
 Hello,
-Ez az első MD fájlunk!
+Ez az első MD fájlunk! :D
